@@ -37,7 +37,7 @@ The `Vessel` table in the SQLite database has the following structure:
 
 ```sql
 CREATE TABLE Vessel (
-    vessel_id INTEGER PRIMARY KEY,
+    id INTEGER PRIMARY KEY,
     name TEXT NOT NULL,
     type TEXT,
     flag TEXT,
@@ -47,7 +47,7 @@ CREATE TABLE Vessel (
 ```
 The table contains the following fields:
 ```
-vessel_id: Unique identifier of the vessel.
+id: Unique identifier of the vessel.
 name: Name of the vessel.
 type: Type of the vessel.
 flag: Flag of the vessel.
