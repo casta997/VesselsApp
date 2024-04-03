@@ -1,6 +1,9 @@
 # CRUD on Vessel table
+
 This repository serves as a starting point for a practical development test. 
+
 The project includes an empty Windows Form project and a SQLite database containing only a `Vessel` table. 
+
 The objective of this test is to implement CRUD (Create, Read, Update, Delete) operations for the Vessel table within the Windows Form application.
 
 ## Instructions
