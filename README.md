@@ -12,7 +12,7 @@ The objective of this test is to implement CRUD (Create, Read, Update, Delete) o
 
 2. Open the Windows Form project located in the repository.
 
-3. Configure the project to connect to the SQLite database included in the repository. The database file is located in the repository root directory and is named `msc.db`. You'll need to set up the necessary SQLite connection in your Windows Form application.
+3. Configure the project to connect to the SQLite database included in the repository. The database file is located in the `Database` folder and is named `msc.db`. You'll need to set up the necessary SQLite connection in your Windows Form application.
 
 ### Implement the following functionalities within the Windows Form application:
 
