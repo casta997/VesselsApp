@@ -1,3 +1,6 @@
+using System.Data.SQLite;
+
+
 namespace VesselsApp
 {
     internal static class Program
@@ -12,6 +15,8 @@ namespace VesselsApp
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+
+    
         }
     }
 }
